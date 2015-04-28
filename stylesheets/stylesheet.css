@@ -216,7 +216,7 @@ img.screenshot {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
 	img.screenshot {
-		width: 100px;
+		width: 120px;
 	}	
   .main-content {
     padding: 2rem 4rem;
