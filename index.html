@@ -8,8 +8,30 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-  <body>
+	
+	<!-- Fancybox   -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+	<!-- Add fancyBox -->
+	<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+	<!-- Optionally add helpers - button, thumbnail and/or media -->
+	<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+	<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>	
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+	</script>
+
+</head>
+<body>
     <section class="page-header">
       <h1 class="project-name">Quicky Transit</h1>
       <h2 class="project-tagline">Real-time bus &amp; train arrivals for Android: San Francisco, Seattle, Los Angeles, and Pittsburgh</h2>
@@ -22,10 +44,11 @@
     <section class="main-content">
 
 <p align="center">
-	<a href="images/s1.png"><img class="screenshot" src="images/s1.png" alt="Screenshot"></a>
-	<a href="images/s2.png"><img class="screenshot" src="images/s2.png" alt="Screenshot"></a>
-	<a href="images/s3.png"><img class="screenshot" src="images/s3.png" alt="Screenshot"></a>
-	<a href="images/s4.png"><img class="screenshot" src="images/s4.png" alt="Screenshot"></a>
+
+	<a class="fancybox" rel="group" href="images/b1.png"><img class="screenshot" src="images/s1.png" alt="Screenshot"/></a>
+	<a class="fancybox" rel="group" href="images/b2.png"><img class="screenshot" src="images/s2.png" alt="Screenshot"/></a>
+	<a class="fancybox" rel="group" href="images/b3.png"><img class="screenshot" src="images/s3.png" alt="Screenshot"/></a>
+	<a class="fancybox" rel="group" href="images/b4.png"><img class="screenshot" src="images/s4.png" alt="Screenshot"/></a>
 </p>
 	
 <h3>
