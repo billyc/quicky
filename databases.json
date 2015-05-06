@@ -12,7 +12,7 @@
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
 	  "bytes" : "2100000",
-	  "version": "11"
+	  "version": "12"
 	},
 	{
 	  "agency" : "ppa",
