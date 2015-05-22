@@ -41,6 +41,13 @@
 	  "url": "http://billyc.github.io/quicky/databases/1.db.gz",
 	  "bytes" : "16000000",
 	  "version": "4"
+	},
+	{
+	  "agency" : "40",
+	  "region" : "SEATTLE",
+	  "url": "http://billyc.github.io/quicky/databases/40.db.gz",
+	  "bytes" : "10000000",
+	  "version": "1"
 	}
    ]
 }
