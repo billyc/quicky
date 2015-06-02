@@ -5,7 +5,7 @@
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/actransit.db.gz",
 	  "bytes" : "7000000",
-	  "version": "9"
+	  "version": "8"
 	},
 	{
 	  "agency" : "sf-muni",
