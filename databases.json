@@ -12,35 +12,35 @@
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
 	  "bytes" : "2100000",
-	  "version": "13"
+	  "version": "14"
 	},
 	{
 	  "agency" : "ppa",
 	  "region" : "PITTSBURGH",
-	  "url": "https://www.dropbox.com/s/in9kliaauy19e8f/ppa.db.gz?dl=1",
+	  "url": "http://billyc.github.io/quicky/databases/ppa.db.gz",
 	  "bytes" : "11000000",
-	  "version": "4"
+	  "version": "5"
 	},
 	{
 	  "agency" : "lametro",
 	  "region" : "LA",
-	  "url": "https://www.dropbox.com/s/t71w2dxydola2dm/lametro.db.gz?dl=1",
+	  "url": "http://billyc.github.io/quicky/databases/lametro.db.gz",
 	  "bytes": "12000000",
-	  "version": "1"
+	  "version": "2"
 	},
 	{
 	  "agency" : "lametro-rail",
 	  "region" : "LA",
-	  "url"    : "https://www.dropbox.com/s/4opxlcfw84fmhsi/lametro-rail.db.gz?dl=1",
+	  "url": "http://billyc.github.io/quicky/databases/lametro-rail.db.gz",
 	  "bytes"  : "2000000",
-	  "version": "1"
+	  "version": "2"
 	},
 	{
 	  "agency" : "1",
 	  "region" : "SEATTLE",
 	  "url": "http://billyc.github.io/quicky/databases/1.db.gz",
 	  "bytes" : "16000000",
-	  "version": "4"
+	  "version": "5"
 	},
 	{
 	  "agency" : "40",
