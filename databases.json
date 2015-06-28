@@ -18,8 +18,8 @@
 	  "agency" : "ppa",
 	  "region" : "PITTSBURGH",
 	  "url": "http://billyc.github.io/quicky/databases/ppa.db.gz",
-	  "bytes" : "11000000",
-	  "version": "5"
+	  "bytes" : "11500000",
+	  "version": "6"
 	},
 	{
 	  "agency" : "lametro",
