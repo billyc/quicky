@@ -11,36 +11,36 @@
 	  "agency" : "sf-muni",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
-	  "bytes" : "3000000",
-	  "version": "16"
+	  "bytes" : "2800000",
+	  "version": "17"
 	},
 	{
 	  "agency" : "ppa",
 	  "region" : "PITTSBURGH",
 	  "url": "http://billyc.github.io/quicky/databases/ppa.db.gz",
-	  "bytes" : "11500000",
-	  "version": "6"
+	  "bytes" : "11900000",
+	  "version": "7"
 	},
 	{
 	  "agency" : "lametro",
 	  "region" : "LA",
 	  "url": "http://billyc.github.io/quicky/databases/lametro.db.gz",
-	  "bytes": "12000000",
-	  "version": "2"
+	  "bytes": "14800000",
+	  "version": "3"
 	},
 	{
 	  "agency" : "lametro-rail",
 	  "region" : "LA",
 	  "url": "http://billyc.github.io/quicky/databases/lametro-rail.db.gz",
 	  "bytes"  : "2000000",
-	  "version": "2"
+	  "version": "3"
 	},
 	{
 	  "agency" : "1",
 	  "region" : "SEATTLE",
 	  "url": "http://billyc.github.io/quicky/databases/1.db.gz",
-	  "bytes" : "16000000",
-	  "version": "5"
+	  "bytes" : "18000000",
+	  "version": "6"
 	},
 	{
 	  "agency" : "40",
