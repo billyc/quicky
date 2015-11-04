@@ -44,7 +44,7 @@
 	},
 	{
 	  "agency" : "40",
-	  "region" : "SEATTLE",
+	  "region" : "FAKE",
 	  "url": "http://billyc.github.io/quicky/databases/40.db.gz",
 	  "bytes" : "3500000",
 	  "version": "1"
