@@ -1,3 +1,4 @@
+layout:hi
 ---
 
 # Quicky Transit Help and FAQ
