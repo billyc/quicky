@@ -1,4 +1,3 @@
-layout: default
 ---
 
 # Quicky Transit Help and FAQ
