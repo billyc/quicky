@@ -1,4 +1,5 @@
-layout:hi
+---
+title: Quicky Transit Help
 ---
 
 # Quicky Transit Help and FAQ
