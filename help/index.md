@@ -68,3 +68,9 @@ Because funny. And, well, back when I lived in San Francisco I originally called
 
 Want to help test Quicky? You can be on the bleeding edge by [following this link](https://play.google.com/apps/testing/com.worldofbilly.quickmuni) and agreeing to join the beta program. Quicky will then automatically update to the latest beta versions when they come out.
 
+
+------
+
+## Email Support
+
+If you're still stuck or if you have any feedback about Quicky, just [email me](mailto:quicky@worldofbilly.com)!  Thanks!
