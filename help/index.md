@@ -60,7 +60,7 @@ You can fiddle with alarm and location settings here. If you have weird problems
 
 An *asterisk next to an arrival time means that the time is based on the transit **schedule**, instead of using satellite-based GPS positioning. Some transit systems are better than others at keeping to their schedules; this arrival time is likely less accurate than the arrivals that are based on GPS.
 
-### Why is it called Quicky?
+### Why is it called Quicky? Worst name ever.
 
 Because funny. And, well, back when I lived in San Francisco I originally called the app QuickMuni as a joke since everyone in SF knows that Muni buses are anything but quick. Now that it works in more than one city, I wanted to rename it to evoke QuickMuni but not be specific to Muni. Behold! Quicky.
 
