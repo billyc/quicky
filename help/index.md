@@ -74,4 +74,4 @@ If you do decide to be in the beta program, all I ask is that you click the "Sen
 
 ## Email Support
 
-If you're still stuck or if you have any feedback about Quicky, just email me at <quicky@worldofbilly.com>. Thanks!
+If you're still stuck or if you have any feedback about Quicky, just email me at quicky@worldofbilly.com -- Thanks!
