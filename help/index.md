@@ -74,4 +74,4 @@ If you do decide to be in the beta program, all I ask is that you click the "Sen
 
 ## Email Support
 
-If you're still stuck or if you have any feedback about Quicky, just <a href="mailto:quicky@worldofbilly.com?Subject=Quicky Transit">email me</a>. Thanks!
+If you're still stuck or if you have any feedback about Quicky, just <a href="mailto:quicky@worldofbilly.com?subject=Quicky%20Transit">email me</a>. Thanks!
