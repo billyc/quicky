@@ -2,7 +2,7 @@
 title: Quicky Transit Help
 ---
 
-# Quicky Transit Help and FAQ
+# Quicky Transit Help
 
 Quicky provides real-time transit maps and GPS-based bus & train arrival info for San Francisco, Seattle, Los Angeles, and Pittsburgh. The "killer feature" that I wanted—but that no app seemed to have when I started this—was the ability to set an alarm when my bus or train was a few minutes away, and to be able to snooze the alarm if I wasn't quite ready to leave yet. From that humble beginning, this app has sprung.
 
