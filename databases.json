@@ -4,43 +4,43 @@
 	  "agency" : "actransit",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/actransit.db.gz",
-	  "bytes" : "7500000",
-	  "version": "9"
+	  "bytes" : "7700000",
+	  "version": "10"
 	},
 	{
 	  "agency" : "sf-muni",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
-	  "bytes" : "3600000",
-	  "version": "19"
+	  "bytes" : "3800000",
+	  "version": "20"
 	},
 	{
 	  "agency" : "ppa",
 	  "region" : "PITTSBURGH",
 	  "url": "http://billyc.github.io/quicky/databases/ppa.db.gz",
-	  "bytes" : "11900000",
-	  "version": "7"
+	  "bytes" : "12400000",
+	  "version": "8"
 	},
 	{
 	  "agency" : "lametro",
 	  "region" : "LA",
 	  "url": "http://billyc.github.io/quicky/databases/lametro.db.gz",
-	  "bytes": "14800000",
-	  "version": "3"
+	  "bytes": "15500000",
+	  "version": "4"
 	},
 	{
 	  "agency" : "lametro-rail",
 	  "region" : "LA",
 	  "url": "http://billyc.github.io/quicky/databases/lametro-rail.db.gz",
-	  "bytes"  : "2000000",
-	  "version": "3"
+	  "bytes"  : "1800000",
+	  "version": "4"
 	},
 	{
 	  "agency" : "1",
 	  "region" : "SEATTLE",
 	  "url": "http://billyc.github.io/quicky/databases/1.db.gz",
-	  "bytes" : "18000000",
-	  "version": "6"
+	  "bytes" : "19000000",
+	  "version": "7"
 	},
 	{
 	  "agency" : "40",
