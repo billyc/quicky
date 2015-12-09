@@ -11,8 +11,8 @@
 	  "agency" : "sf-muni",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
-	  "bytes" : "3800000",
-	  "version": "20"
+	  "bytes" : "4000000",
+	  "version": "21"
 	},
 	{
 	  "agency" : "ppa",
