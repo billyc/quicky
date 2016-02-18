@@ -48,6 +48,13 @@
 	  "url": "http://billyc.github.io/quicky/databases/40.db.gz",
 	  "bytes" : "3500000",
 	  "version": "1"
+	},
+	{
+	  "agency" : "seattle-sc",
+	  "region" : "FAKE",
+	  "url": "http://billyc.github.io/quicky/databases/seattle-sc.db.gz",
+	  "bytes" : "500000",
+	  "version": "1"
 	}
    ]
 }
