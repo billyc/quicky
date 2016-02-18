@@ -44,14 +44,14 @@
 	},
 	{
 	  "agency" : "40",
-	  "region" : "SEATTLE",
+	  "region" : "FAKE",
 	  "url": "http://billyc.github.io/quicky/databases/40.db.gz",
 	  "bytes" : "3500000",
 	  "version": "1"
 	},
 	{
 	  "agency" : "seattle-sc",
-	  "region" : "SEATTLE",
+	  "region" : "FAKE",
 	  "url": "http://billyc.github.io/quicky/databases/seattle-sc.db.gz",
 	  "bytes" : "1500000",
 	  "version": "1"
