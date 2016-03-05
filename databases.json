@@ -25,15 +25,15 @@
 	  "agency" : "lametro",
 	  "region" : "LA",
 	  "url": "http://billyc.github.io/quicky/databases/lametro.db.gz",
-	  "bytes": "15500000",
-	  "version": "4"
+	  "bytes": "18000000",
+	  "version": "5"
 	},
 	{
 	  "agency" : "lametro-rail",
 	  "region" : "LA",
 	  "url": "http://billyc.github.io/quicky/databases/lametro-rail.db.gz",
-	  "bytes"  : "1800000",
-	  "version": "4"
+	  "bytes"  : "1900000",
+	  "version": "5"
 	},
 	{
 	  "agency" : "1",
