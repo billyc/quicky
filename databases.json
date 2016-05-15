@@ -1,18 +1,18 @@
 { "json_location" : "http://billyc.github.io/quicky/databases.json",
   "agencies" : [
 	{
+	  "agency" : "sf-muni",
+	  "region" : "SF",
+	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
+	  "bytes" : "6370000",
+	  "version": "29"
+	},
+	{
 	  "agency" : "actransit",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/actransit.db.gz",
 	  "bytes" : "8400000",
 	  "version": "11"
-	},
-	{
-	  "agency" : "sf-muni",
-	  "region" : "SF",
-	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
-	  "bytes" : "5630000",
-	  "version": "28"
 	},
 	{
 	  "agency" : "ppa",
