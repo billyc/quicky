@@ -15,6 +15,13 @@
 	  "version": "13"
 	},
 	{
+	  "agency" : "mbta",
+	  "region" : "BOSTON",
+	  "url": "http://billyc.github.io/quicky/databases/lametro.db.gz",
+	  "bytes" : "1880000",
+	  "version": "1"
+	},
+	{
 	  "agency" : "ppa",
 	  "region" : "PITTSBURGH",
 	  "url": "http://billyc.github.io/quicky/databases/ppa.db.gz",
