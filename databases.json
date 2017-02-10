@@ -11,8 +11,8 @@
 	  "agency" : "actransit",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/actransit.db.gz",
-	  "bytes" : "11456000",
-	  "version": "15"
+	  "bytes" : "12556000",
+	  "version": "16"
 	},
 	{
 	  "agency" : "mbta",
