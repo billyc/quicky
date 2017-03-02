@@ -4,8 +4,8 @@
 	  "agency" : "sf-muni",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
-	  "bytes" : "8302000",
-	  "version": "37"
+	  "bytes" : "8502000",
+	  "version": "38"
 	},
 	{
 	  "agency" : "actransit",
