@@ -5,14 +5,14 @@
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/sfmuni.db.gz",
 	  "bytes" : "8902000",
-	  "version": "39"
+	  "version": "40"
 	},
 	{
 	  "agency" : "actransit",
 	  "region" : "SF",
 	  "url": "http://billyc.github.io/quicky/databases/actransit.db.gz",
 	  "bytes" : "13256000",
-	  "version": "17"
+	  "version": "18"
 	},
 	{
 	  "agency" : "mbta",
